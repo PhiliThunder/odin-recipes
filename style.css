@@ -1,0 +1,20 @@
+* {
+    font-family: "Brush Script MT", sans-serif;
+    background-color: lightblue;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#broccoli {
+    color: darkgreen;
+}
+
+button {
+    background-color: purple;
+}
+
+a {
+    color: aqua;
+}
