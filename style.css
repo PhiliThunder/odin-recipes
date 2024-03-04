@@ -1,6 +1,12 @@
-* {
+body {
     font-family: "Brush Script MT", sans-serif;
-    background-color: lightblue;
+    background-color: #eee;
+}
+.card {
+    margin: 16px auto;
+    padding: 8px;
+    background-color: #fff;
+    width: 1000px;
 }
 
 h1 {
@@ -12,9 +18,9 @@ h1 {
 }
 
 button {
-    background-color: purple;
+    background-color: rgb(126, 97, 126);
 }
 
 a {
-    color: aqua;
+    color: rgb(115, 199, 255);
 }
